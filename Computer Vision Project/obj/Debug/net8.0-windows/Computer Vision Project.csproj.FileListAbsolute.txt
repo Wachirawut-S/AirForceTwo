@@ -1,0 +1,60 @@
+C:\Users\User\Desktop\CV-Proj\Computer Vision Project\bin\Debug\net8.0-windows\Computer Vision Project.exe
+C:\Users\User\Desktop\CV-Proj\Computer Vision Project\bin\Debug\net8.0-windows\Computer Vision Project.deps.json
+C:\Users\User\Desktop\CV-Proj\Computer Vision Project\bin\Debug\net8.0-windows\Computer Vision Project.runtimeconfig.json
+C:\Users\User\Desktop\CV-Proj\Computer Vision Project\bin\Debug\net8.0-windows\Computer Vision Project.dll
+C:\Users\User\Desktop\CV-Proj\Computer Vision Project\bin\Debug\net8.0-windows\Computer Vision Project.pdb
+C:\Users\User\Desktop\CV-Proj\Computer Vision Project\bin\Debug\net8.0-windows\Emgu.CV.dll
+C:\Users\User\Desktop\CV-Proj\Computer Vision Project\bin\Debug\net8.0-windows\Emgu.CV.Bitmap.dll
+C:\Users\User\Desktop\CV-Proj\Computer Vision Project\bin\Debug\net8.0-windows\Emgu.CV.UI.dll
+C:\Users\User\Desktop\CV-Proj\Computer Vision Project\bin\Debug\net8.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\CV-Proj\Computer Vision Project\bin\Debug\net8.0-windows\System.Drawing.Common.dll
+C:\Users\User\Desktop\CV-Proj\Computer Vision Project\bin\Debug\net8.0-windows\System.Private.Windows.Core.dll
+C:\Users\User\Desktop\CV-Proj\Computer Vision Project\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\User\Desktop\CV-Proj\Computer Vision Project\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\CV-Proj\Computer Vision Project\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\User\Desktop\CV-Proj\Computer Vision Project\bin\Debug\net8.0-windows\runtimes\win-arm64\native\cvextern.dll
+C:\Users\User\Desktop\CV-Proj\Computer Vision Project\bin\Debug\net8.0-windows\runtimes\win-x64\native\cvextern.dll
+C:\Users\User\Desktop\CV-Proj\Computer Vision Project\bin\Debug\net8.0-windows\runtimes\win-x64\native\libusb-1.0.dll
+C:\Users\User\Desktop\CV-Proj\Computer Vision Project\bin\Debug\net8.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg4100_64.dll
+C:\Users\User\Desktop\CV-Proj\Computer Vision Project\bin\Debug\net8.0-windows\runtimes\win-x86\native\cvextern.dll
+C:\Users\User\Desktop\CV-Proj\Computer Vision Project\bin\Debug\net8.0-windows\runtimes\win-x86\native\libusb-1.0.dll
+C:\Users\User\Desktop\CV-Proj\Computer Vision Project\bin\Debug\net8.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg4100.dll
+C:\Users\User\Desktop\CV-Proj\Computer Vision Project\bin\Debug\net8.0-windows\runtimes\win-arm64\native\concrt140.dll
+C:\Users\User\Desktop\CV-Proj\Computer Vision Project\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140.dll
+C:\Users\User\Desktop\CV-Proj\Computer Vision Project\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_1.dll
+C:\Users\User\Desktop\CV-Proj\Computer Vision Project\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_2.dll
+C:\Users\User\Desktop\CV-Proj\Computer Vision Project\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_atomic_wait.dll
+C:\Users\User\Desktop\CV-Proj\Computer Vision Project\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_codecvt_ids.dll
+C:\Users\User\Desktop\CV-Proj\Computer Vision Project\bin\Debug\net8.0-windows\runtimes\win-arm64\native\vcruntime140.dll
+C:\Users\User\Desktop\CV-Proj\Computer Vision Project\bin\Debug\net8.0-windows\runtimes\win-arm64\native\vcruntime140_1.dll
+C:\Users\User\Desktop\CV-Proj\Computer Vision Project\bin\Debug\net8.0-windows\runtimes\win-x64\native\concrt140.dll
+C:\Users\User\Desktop\CV-Proj\Computer Vision Project\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140.dll
+C:\Users\User\Desktop\CV-Proj\Computer Vision Project\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_1.dll
+C:\Users\User\Desktop\CV-Proj\Computer Vision Project\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_2.dll
+C:\Users\User\Desktop\CV-Proj\Computer Vision Project\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_atomic_wait.dll
+C:\Users\User\Desktop\CV-Proj\Computer Vision Project\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_codecvt_ids.dll
+C:\Users\User\Desktop\CV-Proj\Computer Vision Project\bin\Debug\net8.0-windows\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\User\Desktop\CV-Proj\Computer Vision Project\bin\Debug\net8.0-windows\runtimes\win-x64\native\vcruntime140_1.dll
+C:\Users\User\Desktop\CV-Proj\Computer Vision Project\bin\Debug\net8.0-windows\runtimes\win-x86\native\concrt140.dll
+C:\Users\User\Desktop\CV-Proj\Computer Vision Project\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140.dll
+C:\Users\User\Desktop\CV-Proj\Computer Vision Project\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_1.dll
+C:\Users\User\Desktop\CV-Proj\Computer Vision Project\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_2.dll
+C:\Users\User\Desktop\CV-Proj\Computer Vision Project\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_atomic_wait.dll
+C:\Users\User\Desktop\CV-Proj\Computer Vision Project\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_codecvt_ids.dll
+C:\Users\User\Desktop\CV-Proj\Computer Vision Project\bin\Debug\net8.0-windows\runtimes\win-x86\native\vcruntime140.dll
+C:\Users\User\Desktop\CV-Proj\Computer Vision Project\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\CV-Proj\Computer Vision Project\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\CV-Proj\Computer Vision Project\obj\Debug\net8.0-windows\Computer Vision Project.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CV-Proj\Computer Vision Project\obj\Debug\net8.0-windows\Computer_Vision_Project.Form1.resources
+C:\Users\User\Desktop\CV-Proj\Computer Vision Project\obj\Debug\net8.0-windows\Computer Vision Project.csproj.GenerateResource.cache
+C:\Users\User\Desktop\CV-Proj\Computer Vision Project\obj\Debug\net8.0-windows\Computer Vision Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CV-Proj\Computer Vision Project\obj\Debug\net8.0-windows\Computer Vision Project.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CV-Proj\Computer Vision Project\obj\Debug\net8.0-windows\Computer Vision Project.AssemblyInfo.cs
+C:\Users\User\Desktop\CV-Proj\Computer Vision Project\obj\Debug\net8.0-windows\Computer Vision Project.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CV-Proj\Computer Vision Project\obj\Debug\net8.0-windows\Computer.7CFD0221.Up2Date
+C:\Users\User\Desktop\CV-Proj\Computer Vision Project\obj\Debug\net8.0-windows\Computer Vision Project.dll
+C:\Users\User\Desktop\CV-Proj\Computer Vision Project\obj\Debug\net8.0-windows\refint\Computer Vision Project.dll
+C:\Users\User\Desktop\CV-Proj\Computer Vision Project\obj\Debug\net8.0-windows\Computer Vision Project.pdb
+C:\Users\User\Desktop\CV-Proj\Computer Vision Project\obj\Debug\net8.0-windows\Computer Vision Project.genruntimeconfig.cache
+C:\Users\User\Desktop\CV-Proj\Computer Vision Project\obj\Debug\net8.0-windows\ref\Computer Vision Project.dll
+C:\Users\User\Desktop\CV-Proj\Computer Vision Project\obj\Debug\net8.0-windows\Computer_Vision_Project.Properties.Resources.resources
