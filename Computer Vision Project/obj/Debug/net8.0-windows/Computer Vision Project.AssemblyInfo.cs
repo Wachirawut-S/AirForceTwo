@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Computer Vision Project")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5cb2a582582402c9f815968287ece52b1cece576")]
 [assembly: System.Reflection.AssemblyProductAttribute("Computer Vision Project")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Computer Vision Project")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
